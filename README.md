@@ -1,4 +1,3 @@
 # local-dev
-Local Environment Tools
-    - `.zshrc.sh`
-        - My zsh for local development
+## Local Environment Tools
+    - `.zshrc.sh`: My zsh for local development
